@@ -17,6 +17,9 @@ IT/Cybersecurity including Linux, Web Technologies, Network, and Active Director
 highlighting a well-rounded skill set in IT support and a strong commitment to computer
 network and cybersecurity competence.
 
+## A Cybersecurity Program with CLICKED
+Completed Clicked Program's "Creating and Implementing a Cybersecurity Program Team Sprint" to establish a solid foundation in cybersecurity strategy.
+
 ## WiCyS Security Training Scholarship 2023 – Stages 1 & 2 – Candidate
 Demonstrated exceptional performance in my first-ever Capture The Flag (CTF) competition, ranking 83rd out
 of 1,000+ participants and securing a valued spot in Stage 2. Notably, only 250 individuals will
