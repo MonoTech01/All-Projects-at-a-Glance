@@ -26,9 +26,7 @@ of 1,000+ participants and securing a valued spot in Stage 2. Notably, only 250 
 be selected to progress to this stage in the competitive WiCyS Security Training Scholarship
 program sponsored by WiCyS Tier 1 Partners and Premier Supporters, based on rigorous
 selection criteria including an application essay, performance and engagement in SANS
-Beginner-level CTF, and active community engagement within the cohort. Showed a strong
-commitment to IT & cybersecurity skills development and an intention to continue
-participation in subsequent stages if selected.
+Beginner-level CTF, and active community engagement within the cohort. In Stage 2, completed challenges in web vulnerability exploitation, Cryptography, Linux, Python programming, Binary, and Forensics in the SANS CyberStart program.
 
 ## Data Privacy and Security Enhancement for a Healthcare Organization
 Completed an intensive project under the Expert Guidance of Dr. Williamson – Established a comprehensive
