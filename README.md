@@ -2,8 +2,8 @@
 
 ## CCNA - Network Configuration
 Leveraged Cisco hardware, Netlab+, and Packet Tracer to gain valuable hands-on experience 
-within the CCNA program; configured routers and switches, architected
-complex network topologies, and adeptly resolved real-world troubleshooting scenarios,
+within the CCNA program; configured routers and switches, designed
+complex network topologies, and resolved real-world troubleshooting scenarios,
 effectively bridging theory with practical networking proficiency.
 
 ## In-Home Learning Lab
