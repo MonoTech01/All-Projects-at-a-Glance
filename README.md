@@ -1,6 +1,6 @@
 # Comprehensive Project Summary
 
-## Network Configuration
+## CCNA - Network Configuration
 Leveraged Cisco hardware, Netlab+, and Packet Tracer to gain valuable hands-on experience 
 within the CCNA program; configured routers and switches, architected
 complex network topologies, and adeptly resolved real-world troubleshooting scenarios,
