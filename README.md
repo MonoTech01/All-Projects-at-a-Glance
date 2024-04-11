@@ -20,6 +20,9 @@ network and cybersecurity competence.
 ## A Cybersecurity Program with CLICKED
 Completed Clicked Program's "Creating and Implementing a Cybersecurity Program Team Sprint" to establish a solid foundation in cybersecurity strategy.
 
+## WIC Cybersecurity Scholarship 2024
+Microsoft Cybersecurity Certification Scholarship Program Awarded by Women in Cloud, providing professional development in cybersecurity and SC-900 exam preparation.
+
 ## WiCyS Security Training Scholarship 2023 – Stages 1 & 2 – Candidate
 Demonstrated exceptional performance in my first-ever Capture The Flag (CTF) competition, ranking 83rd out
 of 1,000+ participants and securing a valued spot in Stage 2. Notably, only 250 individuals will
