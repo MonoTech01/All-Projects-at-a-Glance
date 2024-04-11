@@ -17,11 +17,11 @@ IT/Cybersecurity including Linux, Web Technologies, Network, and Active Director
 highlighting a well-rounded skill set in IT support and a strong commitment to computer
 network and cybersecurity competence.
 
-## A Cybersecurity Program with CLICKED
-Completed Clicked Program's "Creating and Implementing a Cybersecurity Program Team Sprint" to establish a solid foundation in cybersecurity strategy.
-
 ## WIC Cybersecurity Scholarship 2024
 Microsoft Cybersecurity Certification Scholarship Program Awarded by Women in Cloud, providing professional development in cybersecurity and SC-900 exam preparation.
+
+## A Cybersecurity Program with CLICKED
+Completed Clicked Program's "Creating and Implementing a Cybersecurity Program Team Sprint" to establish a solid foundation in cybersecurity strategy.
 
 ## WiCyS Security Training Scholarship 2023 – Stages 1 & 2 – Candidate
 Demonstrated exceptional performance in my first-ever Capture The Flag (CTF) competition, ranking 83rd out
