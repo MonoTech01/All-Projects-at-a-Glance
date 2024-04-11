@@ -27,7 +27,7 @@ Completed Clicked Program's "Creating and Implementing a Cybersecurity Program T
 Demonstrated exceptional performance in my first-ever Capture The Flag (CTF) competition, ranking 83rd out
 of 1,000+ participants and securing a valued spot in Stage 2. Notably, only 250 individuals will
 be selected to progress to this stage in the competitive WiCyS Security Training Scholarship
-program sponsored by WiCyS Tier 1 Partners and Premier Supporters, based on rigorous
+program sponsored by SANS Institute & WiCyS Tier 1 Partners and Premier Supporters, based on rigorous
 selection criteria including an application essay, performance and engagement in SANS
 Beginner-level CTF, and active community engagement within the cohort. In Stage 2, completed challenges in web vulnerability exploitation, Cryptography, Linux, Python programming, Binary, and Forensics in the SANS CyberStart program.
 
